@@ -25,6 +25,11 @@ I am planning on cleanup, rewrite, add Git support, and many other things to Sky
 Please don't hesitate to fork and improve if you feel like it :)
 
 
+## Notes
+
+To control multiple auto-scaled instances on EC2, I created [Skyline][skyline]
+
+
 # License
 
 (The MIT License)
@@ -49,3 +54,9 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+
+
+[skyline]: http://github.com/jimeh/skyline
