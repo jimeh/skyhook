@@ -1,0 +1,5 @@
+server {
+   listen 4041;
+   server_name localhost;
+   root /var/www/monit-status;
+}

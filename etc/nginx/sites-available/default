@@ -1,0 +1,16 @@
+# server {
+#   listen          80 default;
+#   server_name     _;
+#   access_log  /var/log/nginx/localhost.access.log;
+# 
+#   server_name_in_redirect  off;
+# 
+#   location / {
+#       index index.html index.htm;
+#       root  /var/www/default;
+#   }
+#   error_page   500 502 503 504  /50x.html;
+#   location = /50x.html {
+#       root   /var/www/default;
+#   }
+# }
