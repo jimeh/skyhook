@@ -27,7 +27,7 @@ Please don't hesitate to fork and improve if you feel like it :)
 
 ## Notes
 
-To control multiple auto-scaled instances on EC2, I created [Skyline][skyline]
+To control multiple auto-scaled instances on EC2, I created [Skyline][skyline].
 
 
 # License
